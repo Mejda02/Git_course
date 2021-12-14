@@ -1,0 +1,461 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.logo,
+.menu,
+.contact {
+  float: left;
+}
+.logo img {
+  width: 60px;
+}
+.logo {
+  margin: 30px;
+  text-align: center;
+  width: 10%;
+}
+.navbar {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.menu li {
+  font-size: 18px;
+  color: #464e90;
+  display: inline;
+  margin: 20px;
+}
+.menu {
+  text-align: center;
+  width: 52%;
+  margin-top: 30px;
+}
+.contact {
+  width: 20%;
+}
+
+.contact img {
+  width: 75%;
+  margin-top: 15px;
+  margin-left: 25px;
+}
+body {
+  font-family: "Work Sans", sans-serif;
+  background-image: url(../images/colgrid.png),
+    url(../images/Vector\ Illustration.png), url(../images/BigShape.png),
+    url(../images/halfshape.png), url(../images/bigshape2.png),
+    url(../images/redcontainer.png), url(../images/whitecontainer.png),
+    url(../images/whitecontainer.png);
+  background-size: 60%, 33%, 45%, 14%, 50%, 20%, 20%, 20%;
+  background-repeat: no-repeat;
+  background-position: 50% 100%, 95% 150px, 100% 30px, 0% 750px, 0% 1650px,
+    25% 2410px, 50% 2410px, 75% 2410px ;
+}
+.title {
+  margin-left: 20%;
+  margin-top: 100px;
+}
+.title1 h1 {
+  font-size: 58px;
+  color: #314584;
+}
+.title1 {
+  width: 40%;
+}
+.text p {
+  font-size: 18px;
+  color: #6e757a;
+  line-height: 30px;
+}
+.text {
+  width: 51%;
+  margin-top: 50px;
+}
+.more {
+  margin-top: 30px;
+}
+.button a{
+  text-decoration: none;
+color:#ffffff;
+background-color: #ff3946;
+}
+
+.button,
+.get {
+  float: left;
+}
+
+.get {
+  width: 50%;
+ margin-left: 30px;
+}
+.get a {
+  color: #314584;
+  text-decoration: none;
+}
+.title2 {
+  margin: 200px 40px 20px 270px ;
+  width: 20%;
+}
+.title2 p {
+  font-size: 30px;
+  line-height: 40px;
+  color: #314584;
+}
+.title2 a {
+  text-decoration: none;
+  color:#ffffff;
+background-color: #ff3946;
+}
+.title2,
+.service1,
+.service2 {
+  float: left;
+}
+.service1 {
+  width: 20%;
+  margin-top: 16%;
+  padding-left: 8px;
+}
+.icon img {
+  width: 14%;
+}
+.web p {
+  font-size: 20px;
+  color: #314584;
+  line-height: 28px;
+}
+.web {
+  width: 60%;
+  margin-top: 28px;
+}
+.vestibulum p {
+  font-size: 10px;
+  color: #314584;
+  line-height: 15px;
+}
+.vestibulum {
+  margin-top: 25px;
+  width: 60%;
+}
+.icon2 img {
+  width: 19%;
+}
+.web2 {
+  width: 70%;
+  margin-top: 28px;
+}
+.web2 p {
+  font-size: 20px;
+  color: #314584;
+  line-height: 28px;
+}
+.vestibulum2 {
+  margin-top: 25px;
+  width: 60%;
+}
+.vestibulum2 p {
+  font-size: 10px;
+  color: #314584;
+  line-height: 15px;
+}
+.service2 {
+  width: 20%;
+  margin-top: 16%;
+}
+.clear {
+  clear: both;
+}
+.lampandtext {
+  margin-left: 10%;
+}
+.somefine,
+.lampe {
+  float: left;
+}
+
+.somefine {
+  width: 40%;
+  margin-top: 15%;
+  margin-left: 100px;
+}
+.lampe img {
+  width: 80%;
+}
+.lampe {
+  width: 40%;
+  margin-top: 15%;
+  text-align: center;
+}
+.our p {
+  font-size: 12px;
+  color: #ff3946;
+}
+.our {
+  width: 30%;
+}
+.some {
+  width: 42%;
+  margin-top: 18px;
+}
+.some p {
+  font-size: 28px;
+  color: #314584;
+}
+.parag {
+  width: 75%;
+  margin-top: 30px;
+}
+.parag p {
+  line-height: 20px;
+  font-size: 12px;
+  color: #314584;
+}
+.arrows {
+  margin-top: 30px;
+}
+.arrowleft,
+.arrowright {
+  display: inline-block;
+  margin-right: 5px;
+}
+.arrowleft img,
+.arrowright img {
+  width: 80%;
+}
+.see,
+.arrows2 {
+  float: left;
+}
+.see p {
+  font-size: 28px;
+  color: #314584;
+}
+.see {
+  margin-left: 20%;
+  margin-top: 10%;
+  width: 20%;
+}
+.arrows2 {
+  margin-top: 180px;
+  width: 40%;
+  text-align: right;
+}
+.arrowleft2,
+.arrowright2 {
+  display: inline-block;
+}
+.arrowleft2 {
+  margin-right: 5px;
+}
+.arrowleft2 img,
+.arrowright2 img {
+  width: 80%;
+}
+
+.pictures {
+  margin-top: 40px;
+}
+.one,
+.two,
+.three {
+  margin: 2px;
+  text-align: center;
+  width: 19%;
+  display: inline-block;
+}
+.pictures {
+  text-align: center;
+}
+.pictures img {
+  width: 100%;
+}
+.four,
+.five,
+.six {
+  margin: 2px;
+  text-align: center;
+  width: 19%;
+  display: inline-block;
+}
+.firstligne,
+.secondligne {
+  text-align: center;
+  width: 100%;
+}
+.seemore p {
+  font-size: 15px;
+  color: #ff3946;
+}
+.seemore {
+  text-align: center;
+  margin-top: 30px;
+}
+.titles {
+  margin-left: 20%;
+  margin-top: 90px;
+}
+.blog p {
+  color: #ff3946;
+}
+.blog {
+  margin-left: 10px;
+}
+.check p {
+  font-size: 28px;
+  color: #314584;
+}
+.arrows3,
+.check {
+  float: left;
+}
+.check {
+  width: 30%;
+  margin-top: 20px;
+}
+.arrows3 {
+  width: 45%;
+  margin-top: 30px;
+  text-align: right;
+}
+.arrowleft3,
+.arrowright3 {
+  display: inline-block;
+}
+.arrowleft3 {
+  margin-right: 5px;
+}
+.arrowleft3 img,
+.arrowright3 img {
+  width: 80%;
+}
+.new {
+  margin-left: 22%;
+  margin-top: 30px;
+}
+.post1 {
+  margin-top: 85px;
+}
+.new p {
+  font-size: 15px;
+  color: #ffffff;
+}
+.march {
+  margin-top: 15px;
+  margin-left: 22%;
+}
+.march p {
+  color: #ffffff;
+}
+.newtext {
+  margin-left: 22%;
+  margin-top: 28px;
+  width: 14%;
+}
+.newtext p {
+  line-height: 25px;
+  color: #ffffff;
+  font-size: 13px;
+}
+.contactus {
+  margin-left: 20%;
+  margin-top: 150px;
+}
+.contactus1 p {
+  color: #ff3946;
+  font-size: 15px;
+}
+.getintouch {
+  margin-top: 10px;
+}
+.getintouch p {
+  font-size: 28px;
+  color: #314584;
+}
+.youremail,
+.subject {
+  float: left;
+  text-align: center;
+}
+.youremail {
+  margin-left: 200px;
+  width: 30%;
+  padding: 10px;
+  background-image: url(../images/bar.png);
+   ;
+}
+.subject {
+  width: 45%;
+  text-align: left;
+  margin-left: 100px;
+}
+.contact2 {
+  text-align: center;
+  margin-top: 38px;
+  margin-left: 20px;
+  
+}
+.youremail p,
+.subject p,
+.message p {
+  color: #314584;
+}
+.message {
+  text-align: center;
+  width: 50%;
+  margin-top: 50px;
+}
+.button3 {
+  width: 100%;
+  text-align: center;
+  margin-top: 100px;
+}
+.button3 img {
+  width: 11%;
+}
+.DOOB {
+  text-align: center;
+  margin-top: 50px;
+  padding-top: 30px;
+}
+.DOOB p {
+  color: #ffffff;
+  font-size: 15px;
+}
+.creativity p {
+  color: #ff3946;
+  font-size: 30px;
+}
+.creativity {
+  text-align: center;
+ 
+}
+.lastmenu {
+  text-align: center;
+  margin: 30px;
+}
+.lastmenu li {
+  display: inline;
+  margin: 10px;
+  color: #ffffff;
+}
+.allRight {
+  text-align: center;
+  margin: 25px;
+}
+.allRight p {
+  color: #ffffff;
+  font-size: 13px;
+}
+.icons img{
+  margin: 30px;
+  
+}
+
+
+.footer{
+  background-image: url(../images/Back.png);
+}
+
+
